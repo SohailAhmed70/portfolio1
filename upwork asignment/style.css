@@ -299,7 +299,7 @@ min-height: 550px;
     width: 100%;
     min-height: 350px;
     display: flex;
- justify-content: space-around;
+
  flex-wrap: wrap;
 }
 .foot1{
@@ -348,10 +348,10 @@ min-height: 550px;
 .end{
     width: 100%;
     min-height: 50px;
-  
+  padding: 20px;
     display: flex;
     color: white;
-    gap: 30px;
+    gap: 20px;
     align-items: center;
     flex-wrap: wrap;
 }
