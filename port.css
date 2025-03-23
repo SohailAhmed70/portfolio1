@@ -1,0 +1,383 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+
+}
+/* body{
+overflow-x: hidden;
+
+} */
+
+/* 
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+  height:100%;
+  background-image: linear-gradient(to right top, #8e44ad 0%, #3498db 100%);
+}
+
+nav {
+  max-width: 960px;
+  mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+  padding: 5px 0;
+}
+
+nav ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 18px;
+  font-family: "Open Sans";
+  text-transform:uppercase;
+  color: rgba(0, 35, 122, 0.5);
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+}
+
+nav ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(0, 35, 122, 0.7);
+} */
+
+/* 
+.nav{
+min-height: 30px;
+line-height: 1px;
+width: 100%;
+background: none;
+position: sticky;
+display: flex;
+flex-wrap: wrap;
+top: 0px;
+z-index: 1;
+background-color: rgb(255, 255, 255);
+border-bottom: 5px solid red;
+}
+
+.nav a{
+text-decoration: none;
+color: rgb(43, 42, 42);
+font-size: 27px;
+flex-wrap: wrap;
+font-size: 20px;
+}
+.nav ol li{
+list-style-type: none;
+margin: 0px 35px;
+float: left;
+padding: 12px;
+
+
+} */
+.main{
+ 
+width: 100%;
+min-height: 550px;
+
+
+
+}
+
+
+
+.des{
+    font-size: 30px;
+   
+margin-top: 60px;
+text-align: center;
+color: rgb(0, 0, 0);
+}
+.icons{
+   
+  font-size: 25px;
+width: 100%;
+height: 50px;
+
+
+margin-top: 20px;
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+
+.img{
+    width: 100%;
+    height: 400px;
+   
+  
+
+}
+/* .img img{
+
+    margin-left: 30px;
+}
+@media only screen and (max-width: 950px){
+img{
+width: 110%;
+margin-top: 15%;
+
+}
+
+
+
+} */
+
+
+.main1{
+    margin-top: 50px;
+width: 100%;
+min-height: 450px;
+background-color: #f6f6f6;
+display: flex;
+flex-wrap: wrap;
+}
+
+
+.detail{
+background-color: white;
+
+padding: 5px 10px;
+
+
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.para1{
+    
+font-size: 19px;
+margin-top: 70px;
+max-width: 700px;
+}
+
+
+.p{
+font-size: 15px;
+line-height: 25px;
+padding: 10px;
+}
+
+
+
+
+
+.main2{
+width: 100%;
+row-gap: 50px;
+min-height: 600px;
+flex-wrap: wrap;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.c1{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+
+.c2{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+.c3{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+.c4{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+.c5{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+.c6{
+
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+max-width: 300px;
+height: 370px;
+transition: 0.3s;
+
+}
+.c1:hover{
+    transform: scale(0.9);
+}
+.c2:hover{
+    transform: scale(0.9);
+}
+.c3:hover{
+    transform: scale(0.9);
+}
+.c4:hover{
+    transform: scale(0.9);
+}
+.c5:hover{
+    transform: scale(0.9);
+}
+.c6:hover{
+    transform: scale(0.9);
+}
+
+            .main4{
+
+min-height: 600px;
+width: 100%;
+display: flex;
+justify-content: center;
+            }
+
+            .form{
+                box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+        display: flex;
+      justify-content: center;
+        flex-wrap: wrap;
+margin-top: 50px;
+max-width: 450px;
+min-height: 500px;
+
+
+
+            }
+       
+          .form input{
+                border: 1px solid rgb(235, 238, 240);
+             
+             outline-color: rgb(179, 210, 251);
+            width: 85%;
+            border-radius: 4px;
+            height: 50px;
+           margin-top: 10px;
+           }
+
+            .form button{
+                cursor: pointer;
+                width: 85%;
+                height: 50px;
+                outline: white;
+                color: white;
+                font-weight: 600;
+                border: none;
+                background-color: rgb(116, 154, 241);      }
+                            .form textarea{
+                                width: 85%;
+                                height: 100px;
+                                outline: white;
+                                border: none;
+                               
+                                            }
+
+                                            .form ::placeholder{
+font-size: 20px;
+
+
+                                            }
+.footer{
+width: 100%;
+min-height: 40px;
+background-color: rgb(27, 27, 27);
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.fp{
+    
+    height: 20px;
+}
+.iconss{
+   
+    font-size: 25px;
+
+ 
+  display: flex;
+
+
+
+  gap: 10px;
+  }
+
+
+  @media only screen and (max-width: 450px){
+    .des >h1{
+  font-size: 30px;
+  
+    }
+    .des{
+      margin-top: 10px;
+    }
+  .des >h3{
+    font-size: 25px;
+  }
+  .des >p{
+    font-size: 20px;
+  }
+  }
+
+  @media only screen and (max-width: 390px){
+    .des >h1{
+  font-size: 25px;
+  
+    }
+  .des >h3{
+    font-size: 20px;
+  }
+  .des >p{
+    font-size: 15px;
+  }
+
+  }
+
+  @media only screen and (max-width: 500px){
+    .des{
+      margin-top: 20px;
+    }
+
+  }
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 460px){
+  .footer{
+    justify-content: center;
+    
+  }
+  .fp{
+ min-height: 7px;
+  }
+}
+
+

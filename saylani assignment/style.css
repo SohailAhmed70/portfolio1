@@ -1,0 +1,713 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: poppins;
+    box-sizing: border-box;
+    
+    }
+    .head> .p1{
+    margin-top: 10px;
+    
+    }
+    .head> .p2{
+        margin-top: 10px;
+        
+        }
+        .head> .p3{
+            margin-top: 10px;
+            
+            }
+            .head> .p4{
+                margin-top: 10px;
+                
+                }
+    
+    .head{
+    
+    color: black;
+    display: flex;
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: 	#eeeeee;
+    flex-wrap: wrap;
+    }
+    
+    /* .nav{
+    
+    height: 40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+    }
+    .nav > ol li{
+    float: left;
+    text-decoration: none;
+    margin: 0px 15px;
+    list-style-type: none;
+    
+    } */
+    
+    .main{
+        margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+    min-height: 400px;
+    width: 100%;
+    }
+    .m1{
+    
+        font-size: 30px;
+    max-width: 700px;
+    font-family: poppins;
+    }
+    .m2{
+        
+    
+    min-height: 250px;
+    max-width: 400px;
+    
+    
+    }
+    .be{
+        
+        width: 100%;
+        text-align: center;
+      
+    }
+    
+    .main2{
+        min-height: 310px ;
+        max-width: 100%;
+    background-color: rgb(240, 236, 207);
+    margin-top: 50px;
+    padding: 30px 0px;
+    
+    }
+    .gen{
+    
+    background-color: rgb(240, 236, 207);
+    display: flex;
+    
+    
+    justify-content: center;
+    
+    max-width: 80%;
+    }
+    .gen > input{
+    font-size: 150%;
+    
+    }
+    .gen > button{
+    background-color: rgb(55, 52, 52);
+    color: white;
+    border: none;
+    padding: 20px;
+    height: 61px;
+    
+    
+    
+    }
+    .buttondiv{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    gap: 10px;
+    }
+    .button1{
+    border-radius: 15px;
+    
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+    .button1:hover{
+        padding: 20px;
+        transition: 0.4s;
+        background-color: black;
+        color: white;
+       
+    }
+    .button2:hover{
+        padding: 20px;
+        transition: 0.4s;
+        background-color: black;
+        color: white;
+       
+    }
+    .button3:hover{
+        padding: 20px;
+        transition: 0.4s;
+        background-color: black;
+        color: white;
+       
+    }
+    .button4:hover{
+        padding: 25px;
+       transition: 0.4s;
+        background-color: black;
+        color: white;
+       
+    }
+    
+    
+    .button2{
+        border-radius: 15px;
+    
+        border: none;
+        color: rgb(0, 0, 0);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        }
+        .button3{
+            border: none;
+            color: rgb(0, 0, 0);
+            padding: 15px 32px;
+            border-radius: 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            }
+            .button4{
+                border: none;
+                border-radius: 15px;
+                color: rgb(0, 0, 0);
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                }
+                            
+                .f2{
+                    border: none;
+                    background-color: rgb(94, 238, 94);
+                    color: rgb(0, 0, 0);
+                    padding: 15px 32px;
+                   
+                    text-decoration: none;
+                    border-radius: 15px;
+                    display: inline-block;
+                    font-size: 16px;
+               margin-top: 20px;
+               color: white;
+              
+                    }
+                    .fbutton{
+                      
+                        display: flex;
+                        justify-content: center;
+                    }
+                    .f2:hover{
+    
+                        font-size: 18px;
+                    }
+    
+                    .main3{
+              
+                      margin-top: 50px;
+    display: flex;
+    justify-content: center;
+                       max-width: 100%;
+                        min-height: 400px;
+                    }
+    
+    .main4{
+      
+        flex-wrap: wrap;
+      margin-top: 30px;
+    min-height: 400px;
+    
+    display: flex;
+    
+    justify-content: center;
+    }
+    .main4s{
+    display: flex;
+    width: 100%;
+    min-height: 250px;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    }
+    .mains1{
+        background-color: rgb(215, 239, 214);
+    height: 200px;
+    width: 200px;
+    
+    }
+    .mains2{
+         background-color: rgb(215, 239, 214);
+        height: 200px;
+        width: 200px;
+    }
+    .mains3{
+         background-color: rgb(215, 239, 214);
+        height: 200px;
+        width: 200px;
+    }
+    
+    .mains1>h2{
+        font-family: poppins;
+        font-weight: 500;
+    
+    }
+    .mains2>h2{
+        font-family: poppins;
+        font-weight: 500;
+    
+    }.mains3>h2{
+        font-family: poppins;
+        font-weight: 500;
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        .main4ss{
+        display: flex;
+        width: 100%;
+        min-height: 250px;
+        gap: 15px;
+        flex-wrap: wrap;
+    margin-top: 15px;
+        justify-content: space-evenly;
+        }
+        .mainss1{
+             background-color: rgb(215, 239, 214);
+        height: 200px;
+        width: 200px;
+        
+        }
+        .mainss2{
+             background-color: rgb(215, 239, 214);
+            height: 200px;
+            width: 200px;
+        }
+        .mainss3{
+             background-color: rgb(215, 239, 214);
+            height: 200px;
+            width: 200px;
+        }
+        
+        .mainss1>h2{
+            font-family: poppins;
+            font-weight: 500;
+        
+        }
+        .mainss2>h2{
+            font-family: poppins;
+            font-weight: 500;
+        
+        }.mainss3>h2{
+            font-family: poppins;
+            font-weight: 500;
+        
+        }
+    
+    .main5{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    min-height: 350px;
+    gap: 25px;
+    
+    }
+    
+    .main5s{
+        position: relative;
+       
+    
+    height: 250px;
+    width: 350px;
+    
+    
+    
+    }
+    .main5ss{
+     position: relative;
+     
+        height: 250px;
+        width: 350px;
+       
+        }
+       
+        .main5sss{
+      
+            position: relative;
+             
+               height: 250px;
+               width: 350px;
+        
+               }
+    .main6{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    }
+        .main7{
+    
+    display: flex;
+    
+    width: 90%;
+    height: 62%;
+    flex-direction: column;
+    margin-left: 5%;
+    
+        } 
+    
+    
+    
+        .headd1{
+           display: flex;
+    gap: 20px;
+    
+    
+        }
+        
+        .headd2{
+            display: flex;
+     gap: 20px;
+     
+     
+         }
+         
+        .headd3{
+            display: flex;
+     gap: 20px;
+     
+     
+         }
+         
+        .headd4{
+            display: flex;
+     gap: 20px;
+     
+     
+         }
+    
+    .main8{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    min-height: 250px;
+    border: 1px solid black;
+    
+    background-image: url("./saylani-home-imgs/background.jpg") ;
+    background-position: center;
+    background-size: cover;
+    
+    }
+    .main8img1{
+    background-color: white;
+    min-width: 12%;
+    max-height: 120px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 55px;
+    }
+    
+    
+    .main8img2{
+        background-color: white;
+        min-width: 12%;
+        height: 120px;
+        padding: 15px;
+        text-align: center;
+        border-radius: 55px;
+        }
+    
+        
+        .main8img3{
+            background-color: white;
+            min-width: 12%;
+            height: 120px;
+            padding: 15px;
+            text-align: center;
+            border-radius: 55px;
+            }
+    
+            
+            .main8img4{
+                background-color: white;
+                min-width: 12%;
+                height: 120px;
+                padding: 15px;
+                text-align: center;
+                border-radius: 55px;
+                }
+                
+    
+    
+    
+                .main9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 450px;
+    width: 100%;
+    background-color: #D3D3D3;
+    margin-top: 50px;
+    
+                }
+    
+                .main9img{
+    width: 50%;
+    height: 100px;
+    
+                }
+    
+                .main9img img{
+    border-radius: 45px;
+    margin-left: 35%;
+    margin-top: 50px;
+    
+                }
+    
+                .main9head{
+    width: 80%;
+    margin-top: 50px;
+                }
+    
+    
+                .main10{
+                    display: flex;
+                    flex-wrap: wrap;
+             gap: 15px;
+             justify-content: center;
+         
+         
+    
+    width: 100%;
+    min-height: 500px;
+    
+                }
+    /* .media1{
+        border: 1px solid black;
+    } */
+    
+    .main11{
+        width: 100%;
+        min-height: 200px;
+        
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px;
+    }
+    .main11{
+        display: flex;
+        min-height: 300px;
+        flex-wrap: wrap;
+        width: 100%;
+        align-items: center;
+       gap: 20px;
+        }
+    .news1{
+        max-width: 300px;
+        min-height: 150px;
+        
+    }
+    .news2{
+        max-width: 300px;
+        min-height: 150px;
+        
+    }
+    .news3{
+        max-width: 300px;
+        min-height: 150px;
+        
+    }
+    .news4{
+        max-width: 300px;
+        min-height: 150px;
+        
+    }
+     .main12{
+        justify-content: center;
+        flex-wrap: wrap;
+       position: relative;
+        display: flex;
+     background-image: url("./saylani-home-imgs/background.jpg");
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+    
+    max-width: 100%;
+    min-height: 300px;
+    margin-top: 50px;
+                }
+    
+    .input12{
+    position: absolute;
+    top: 100px;
+    
+    min-height: 150px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+    }
+    .input12 ::placeholder{
+    color: white;
+    text-align: center;
+    }
+    .input12 input{
+    width: 51%;
+    height: 60px;
+    color: white;
+    
+    background: none;
+    border: 2px solid white;
+    outline: none;
+    }
+    .input12 button{
+    
+    background-color: white;
+    border: none;
+    color: rgb(0, 0, 0);
+    width: 51%;
+    height: 50px;
+    
+    text-decoration: none;
+    
+    font-size: 16px;
+    }
+    /* @media only screen and (max-width: 432px){
+        .input12 input{
+            padding: 5px 20px;
+          
+        } */
+        /* .bt{
+     background-color: rgb(180, 184, 185);
+     padding: 10px 130px;
+        } */
+    
+    /* @media only screen and (max-width: 432px){
+       .bt{
+        background-color: rgb(180, 184, 185);
+        padding: 10px 100px;
+       margin-right: 15px;
+       }
+        } */
+    
+    .main13{
+        margin-top: 30px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    min-height: 320px;
+    background-image: url("./saylani-home-imgs/footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    }
+    .main13 ol li{
+    list-style-type: none;
+    
+    
+    width: 250px;
+    }
+    .main13 ol{
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    .main13li{
+        
+    color: white;
+    width: 250px;
+    height: 200px;
+    }
+    .main13li2{
+        color: white;
+       width: 250px;
+    height: 200px;
+    
+        }
+        .main13li3{
+            color: white;
+            width: 250px;
+            
+    height: 200px;
+    
+            }
+            
+    
+    .main13img{
+        width: 250px;
+    height: 200px;
+    
+    }
+    /* body{
+        overflow-x: hidden;
+      
+    } */
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (max-width: 460px){
+        .gen > button{
+    display: none;
+    
+        }
+    .gen > input {
+        display: none;
+    }
+    }
+    /* @media only screen and (max-width: 525px){
+        .news3{
+    display: none;
+    
+        }
+        .news4{
+            display: none;
+            
+                }
+    } */

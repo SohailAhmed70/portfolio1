@@ -1,0 +1,386 @@
+#navbarDropdown:hover{
+color: green;
+
+}
+#navv{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+.head{
+min-height: 30px;
+width: 100%;
+position: sticky;
+top: 0;
+display: flex;
+
+background-color: white;
+}
+ol li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin: 0px 10px;
+ 
+}
+.cards{
+min-height: 300px;
+width: 100%;
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+row-gap: 10px;
+}
+
+.card1{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+  
+}
+.card1:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card2{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card2:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card3{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card3:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card4{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card4:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card5{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card5:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card6{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card6:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card7{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card7:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.card8{
+    background-color: rgb(236, 236, 236);
+    width: 270px;
+    height: 120px;
+   border-radius: 10px;
+}
+.card8:hover{
+    background-color: rgb(184, 181, 181) ;
+}
+.fa-star{
+color: rgb(26, 226, 26);
+
+}
+
+
+.rad{
+    border-radius: 10px;
+   
+}
+
+.ti{
+    padding: 20px;
+}
+.btt{
+ 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    max-width: 400px;
+}
+.main1{
+border: 1px solid black;
+width: 100%;
+padding: 40px;
+min-height: 300px;
+background-image: url("./imgs/find-talent-2x.jpg") ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.maincard{
+    width: 90%;
+    min-height: 200px !important;
+  
+    display: flex;
+    justify-content: space-around;
+}
+
+.maincard1{
+    padding: 10px;
+    width: 300px;
+    height: 140px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.maincard1:hover{
+    background-color: white;
+    color: green;
+}
+.maincard2{
+    padding: 10px;
+    width: 300px;
+    height: 140px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.maincard2:hover{
+    background-color: white;
+    color: green;
+}
+.maincard3{
+    padding: 10px;
+    width: 300px;
+    height: 140px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+.maincard3:hover{
+    background-color: white;
+    color: green;
+}
+
+/* .imgg{
+    position: relative;
+    right: 150px;
+    height: 60%;
+    width: 70%;
+} */
+.img1{
+ position: relative;
+ width: 50px;
+ height: 50px;
+}
+.imgchild{
+    position: absolute;
+    width: 200px;
+    height: 400px;
+    right: 10px;
+}
+
+.main2{
+    min-height: 500px;
+    width: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.main2title{
+padding: 20px;
+background-color: rgb(31, 72, 185);
+max-width: 500px;
+min-height: 500px;
+}
+.heading{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    color: white;
+
+}
+
+.maincard{
+    width: 100%;
+    min-height: 500px;
+  
+display: flex;
+flex-wrap: wrap;
+row-gap: 10px;
+}
+.cardd{
+width: 600px;
+height: 500px;
+background-color: rgb(9, 87, 61);
+color: white;
+border-radius: 20px;
+padding: 30px;
+}
+
+.cardd2{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(230, 98, 10);
+    color: white;
+    border-radius: 20px;
+    padding: 30px;
+    }
+
+
+
+    .last{
+width: 100%;
+min-height: 400px;
+
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+    }
+.last1{
+color: rgb(163, 163, 163);
+    
+    width: 250px;
+    min-height: 400px;
+    font-weight: 500;
+}
+.last2{
+
+    
+    width: 300px;
+    min-height: 400px;
+}
+
+.last3{
+
+    
+    width: 300px;
+    min-height: 400px;
+}
+.last ol li{
+font-size: 22px;
+cursor: pointer;
+margin-top: 5px;
+}
+
+.last ol li:hover{
+    color: green;
+}
+
+.footer{
+background-color: rgb(24, 23, 23);
+width: 100%;
+min-height: 550px;
+}
+
+.foot{
+ 
+    width: 100%;
+    min-height: 350px;
+    display: flex;
+ justify-content: space-around;
+ flex-wrap: wrap;
+}
+.foot1{
+    width: 200px;
+    min-height: 360px;
+    color: white;
+}
+.foot2{
+    width: 260px;
+    min-height: 360px;
+    color: white;
+}
+.foot3{
+    width: 170px;
+    min-height: 360px;
+    color: white;
+}
+.foot4{
+    width: 200px;
+    min-height: 360px;
+    color: white;
+}
+
+.mainicon{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.icon1{
+    width: 300px;
+    height: 100px;
+   
+    margin-left: 20px;
+
+}
+.icon2{
+    width: 300px;
+    height: 100px;
+   
+    margin-left: 20px;
+
+}
+
+.end{
+    width: 100%;
+    min-height: 50px;
+  
+    display: flex;
+    color: white;
+    gap: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.first h1{
+    font-size: 65px;
+}
+.fist p{
+    font-weight: 500; font-size: 27px; color: rgb(100, 100, 100);
+}
+@media only screen and (max-width: 532px){
+    .first > h1{
+font-size: 50px;
+
+    }
+.first > p {
+    font-size: 20px;
+}
+}
+@media only screen and (max-width: 400px){
+    .first > h1{
+font-size: 40px;
+
+    }
+    .first > p {
+        font-size: 13px;
+    }
+    .head{
+        display: none;
+    }
+
+}
